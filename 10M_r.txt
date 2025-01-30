@@ -1,0 +1,33 @@
+Insertion process of 10000000
+Total insertion:10000000
+Elapsed Time of insertion:1.603000
+
+Lookup process 10000000
+
+Same set
+Accuracy positive:100.000000, False positive 0.000000
+Elapsed Time of lookup:1.624000
+Summary:
+TP: 10000000	TN:  0
+
+Mixed set
+Accuracy positive:100.000000, False positive 0.000000
+Elapsed Time of lookup:1.607000
+Summary:
+TP: 5000000	TN:  5000000
+
+Disjoint set
+Accuracy positive:100.000000, False positive 0.000000
+Elapsed Time of lookup:1.748000
+Summary:
+TP: 0	TN:  10000000
+
+Random set
+Accuracy positive:100.000000, False positive 0.000000
+Elapsed Time of lookup:1.418000
+Summary:
+TP: 10000000	TN:  0
+
+Total memory size in MB: 1.618935
+
+Required memory size in MB: 17.139420
